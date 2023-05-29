@@ -8,4 +8,4 @@ add_executable(list labs/laba2/list/main.c labs/laba2/list/Header.h labs/laba2/l
 add_executable(rearhive labs/laba2/rearhive/main.c labs/laba2/rearhive/Header.h labs/laba2/rearhive/Source.c)
 add_executable(laba3 labs/laba3/main.c labs/laba3/Header.h labs/laba3/Source.c)
 add_executable(laba4 labs/laba4/main.c labs/laba4/Header.h labs/laba4/Source.c)
-add_executable(lab5 labs/laba5/main.c labs/laba5/Header.h labs/laba5/Source.c)
+add_executable(laba5 labs/laba5/main.c labs/laba5/Header.h labs/laba5/Source.c)
